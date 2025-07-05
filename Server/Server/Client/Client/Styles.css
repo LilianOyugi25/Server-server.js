@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+#chat {
+  list-style: none;
+  padding: 0;
+}
+#chat li {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
